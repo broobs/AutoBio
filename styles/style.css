@@ -111,9 +111,9 @@ span{
 background-color: var(--cor-botoes);
 }
 .apresentation__image{
-    width: 50%;
-    border-radius: 5%;
-    padding-right: 10%;
+    width: 40%;
+    border-radius: 23%;
+    padding: 10%;
 }
 .footer{
     padding: 24px;
